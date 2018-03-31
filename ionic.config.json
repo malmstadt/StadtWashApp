@@ -1,0 +1,8 @@
+{
+  "name": "StadtWash",
+  "app_id": "com.stadtwash.stadtwashapp",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
